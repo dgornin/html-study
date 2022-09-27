@@ -1,0 +1,11 @@
+.inverted_h {
+    display: block;
+    background-color: black;
+    color: white;
+    padding-left: 5px;
+}
+
+p {
+    display: block;
+    margin-bottom: 30px;
+}
